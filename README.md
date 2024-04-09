@@ -5,7 +5,8 @@ You can make AR objects look alive!
 
 <hr>
 <b>Camera pose estimation</b>
-![image](https://github.com/Jung-H-C/AR_into_Video/assets/101037538/3b6744d0-9b00-48fa-a56a-e19a6ec0efd9)
+<br>
+![image](https://github.com/Jung-H-C/AR_into_Video/assets/101037538/968ace23-9633-4246-8e74-594c69bb11cf)
 <br>
 
 ![image](https://github.com/Jung-H-C/AR_into_Video/assets/101037538/f86cee57-a45c-4f13-a546-086faa3125e0)
