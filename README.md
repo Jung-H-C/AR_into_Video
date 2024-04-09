@@ -4,13 +4,15 @@
 You can make AR objects look alive!
 
 <hr>
-<b>Camera pose estimation</b>
+***
+# Camera pose estimation
 <br>
 <img src="/Screenshots/coeff.PNG">
 
 ![image](https://github.com/Jung-H-C/AR_into_Video/assets/101037538/f86cee57-a45c-4f13-a546-086faa3125e0)
 
-<b>Demo:</b>
+***
+# Demo:
 <br>
 <br>
 <img src="/Screenshots/result.gif">
