@@ -13,10 +13,10 @@ You can make AR objects look alive!
 ***
 # Making 3D Object
 <br>
-<img src="/Screenshots/code_1.PNG">
+<img src="/Screenshots/code_1.png">
 피라미드 객체 선언
 <br>
-<img src="/Screenshots/code_2.PNG">
+<img src="/Screenshots/code_2.png">
 OpenCV를 활용한 피라미드 그리기
 
 ***
