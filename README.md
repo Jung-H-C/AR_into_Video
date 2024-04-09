@@ -3,8 +3,6 @@
 <br>
 You can make AR objects look alive!
 
-<hr>
-
 ***
 # Camera pose estimation
 <br>
